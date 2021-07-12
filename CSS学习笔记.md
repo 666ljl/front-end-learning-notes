@@ -49,7 +49,7 @@
 <html>
 <head>
     <titile></title>
-    <link rel="stylesheet" href="要引入的CSS文档位置" >
+    <link rel="stylesheet" href="要引入的CSS文档位置.css" >
 </head>
 <body>
 </body>
@@ -100,4 +100,25 @@ h1, h2, p {
   text-align: center;
   color: red;
 }
+```
+
+## 6.属性选择器
+```html
+*[title] {color:red;}
+```
+```html
+a[href] {color:red;}
+或者
+a[href][title] {color:red;}
+```
+## 7.后代选择器
+后代选择器（descendant selector）又称为包含选择器。
+```html
+h1 em {color:red;}
+```
+
+## 8.子元素选择器
+子元素选择器（Child selectors）只能选择作为某元素子元素的元素。
+```html
+h1 > strong {color:red;}
 ```
