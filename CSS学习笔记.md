@@ -148,24 +148,24 @@ padding:用于控制内容与边框之间的距离
 
 # 八、字体
 ## 1.字体分类
--衬线字体（Serif）：在每个字母的边缘都有一个小的笔触。它们营造出一种形式感和优雅感。
--无衬线字体（Sans-serif）：字体线条简洁（没有小笔画）。它们营造出现代而简约的外观。
--等宽字体（Monospace）：这里所有字母都有相同的固定宽度。它们创造出机械式的外观。
--草书字体（Cursive）：模仿了人类的笔迹。
--幻想字体（Fantasy）：是装饰性/俏皮的字体。
+- 衬线字体（Serif）：在每个字母的边缘都有一个小的笔触。它们营造出一种形式感和优雅感。
+- 无衬线字体（Sans-serif）：字体线条简洁（没有小笔画）。它们营造出现代而简约的外观。
+- 等宽字体（Monospace）：这里所有字母都有相同的固定宽度。它们创造出机械式的外观。
+- 草书字体（Cursive）：模仿了人类的笔迹。
+- 幻想字体（Fantasy）：是装饰性/俏皮的字体。
 
 ## 2.字体属性
--font-style
--font-variant
--font-weight
--font-size/line-height
--font-family
+- font-style
+- font-variant
+- font-weight
+- font-size/line-height
+- font-family
 
 # 九、链接
--a:link  正常的，未访问的链接
--a:visited  用户访问过的链接
--a:hover  用户将鼠标悬停在链接上时
--a:active  链接被点击时
+- a:link  正常的，未访问的链接
+- a:visited  用户访问过的链接
+- a:hover  用户将鼠标悬停在链接上时
+- a:active  链接被点击时
 
 # 十、表格
 table  tr th
